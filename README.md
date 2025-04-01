@@ -52,6 +52,7 @@ Implementar soluções para os seguintes desafios:
 │   ├── package-lock.json
 │   ├── package.json
 │   ├── requirements.txt
+├── colecao-postman
 ├── frontend
 │   ├── node_modules
 │   ├── teste-intuitive
