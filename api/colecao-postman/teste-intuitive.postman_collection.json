@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "b4007624-980d-416b-9678-b4e4077e56b1",
+		"name": "teste-intuitive",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43661384"
+	},
+	"item": [
+		{
+			"name": "EndPoint API",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Todas as operadoras",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Buscar Operadora",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
