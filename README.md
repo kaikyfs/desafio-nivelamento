@@ -39,16 +39,40 @@ Implementar soluções para os seguintes desafios:
 │   ├── queries.sql  # Consultas analíticas
 │
 ├── api
-│   ├── app.py  # Servidor Flask/FastAPI
-│   ├── models.py  # Modelos de dados
-│   ├── routes.py  # Rotas da API
-│   ├── requirements.txt  # Dependências
-│   ├── frontend
-│   │   ├── src
+├── backend
+│   ├── __pycache__
+│   ├── node_modules
+│   ├── routes
+│   ├── src
+│   │   ├── controller
+│   │   ├── model
+│   │   ├── repository
+│   ├── app.py
+│   ├── config.py
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── requirements.txt
+├── frontend
+│   ├── node_modules
+│   ├── teste-intuitive
+│   │   ├── .vscode
+│   │   ├── node_modules
 │   │   ├── public
-│   │   ├── package.json  # Dependências Vue.js
-│   │   └── ...
-│
+│   │   ├── src
+│   │   │   ├── assets
+│   │   │   ├── components
+│   │   │   ├── routes
+│   │   │   ├── services
+│   │   │   ├── views
+│   │   │   ├── App.vue
+│   │   ├── main.js
+│   │   ├── .gitignore
+│   │   ├── index.html
+│   │   ├── jsconfig.json
+│   │   ├── package-lock.json
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── vite.config.js
 └── README.md  # Documento principal
 ```
 
